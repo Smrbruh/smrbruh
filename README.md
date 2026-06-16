@@ -80,6 +80,16 @@
 
 ---
 
+## 🎵 Now Playing on Spotify
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7zkqedy6cw7fmq7ckmgh5y2ee&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=7aa2f7&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7zkqedy6cw7fmq7ckmgh5y2ee&redirect=true)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
