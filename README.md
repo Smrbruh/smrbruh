@@ -1,150 +1,116 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=7AA2F7&center=true&vCenter=true&width=800&lines=%F0%9F%94%92+Cybersecurity+Student+%7C+AI+Builder;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%9A%80+Building+Secure+EdTech+Platforms;%E2%9A%A1+First-Year+at+Astana+IT+University" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/smrbruh">
-    <img src="https://img.shields.io/badge/GitHub-smrbruh-7AA2F7?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27">
-  </a>
-  <a href="https://www.linkedin.com/in/bakdaulet-sotsial-06a16b377/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bakdaulet_Sotsial-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27">
-  </a>
-  <a href="https://t.me/smrbruh">
-    <img src="https://img.shields.io/badge/Telegram-%40smrbruh-7AA2F7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A1B27">
-  </a>
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=200&section=header&text=Bakdaulet%20Sotsial&fontSize=60&fontColor=7aa2f7&fontAlignY=38&desc=Cybersecurity%20%C3%97%20AI%20%C3%97%20Full-Stack&descAlignY=60&descSize=22&descColor=7dcfff&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <samp>
-    <b>Where cybersecurity meets artificial intelligence</b><br><br>
-    <img src="https://img.shields.io/badge/-Cybersecurity-FF9E64?style=flat-square&logo=kalilinux&logoColor=white&labelColor=1A1B27">
-    <img src="https://img.shields.io/badge/-Artificial_Intelligence-7AA2F7?style=flat-square&logo=openai&logoColor=white&labelColor=1A1B27">
-    <img src="https://img.shields.io/badge/-EdTech-9ECE6A?style=flat-square&logo=bookstack&logoColor=white&labelColor=1A1B27">
-    <img src="https://img.shields.io/badge/-Full_Stack-7DCFFF?style=flat-square&logo=react&logoColor=white&labelColor=1A1B27">
-  </samp>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=🔐+Cybersecurity+Student+%40+AITU+Kazakhstan;🤖+Building+AI+Agents+%26+Security+Tools;⚡+Python+%7C+Java+%7C+TypeScript+%7C+Go;🚀+From+1C+ERP+parsers+to+WebGL+renderers;🧠+Vibe-coder+who+understands+every+line" alt="typing" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/smrbruh-%23181717.svg?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/smrbruh)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Bakdaulet_Sotsial-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakdaulet-sotsial-06a16b377/)&nbsp;
+[![Telegram](https://img.shields.io/badge/@smrbruh-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smrbruh)&nbsp;
+[![Instagram](https://img.shields.io/badge/@smrbruh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/smrbruh)
+
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🀄 About Me
+## 🧬 About Me
 
 ```yaml
-name: Bakdaulet Sotsial
-alias: smrbruh
-location: Astana, Kazakhstan 🇰🇿
-university: Astana IT University (AITU)
-program: Cybersecurity (1st Year)
+👤  name:       Bakdaulet Sotsial
+🎓  degree:     B.Sc. Cybersecurity — Astana IT University (AITU), Year 1
+📍  location:   Astana, Kazakhstan 🇰🇿
+🔗  github:     github.com/smrbruh
 
-focus:
-  - AI-powered security systems
-  - Secure educational platforms
-  - Full stack development
-  - Cybersecurity research
+🔭  building:
+      - AI-powered OSINT & security tools
+      - Secure full-stack platforms for CIS market
+      - Open-source dev tooling for 1C/ERP ecosystem
 
-mission: Building secure and intelligent learning systems
+🌱  learning:
+      - Adversarial Machine Learning
+      - RF & Signal Processing (CSI, RTI)
+      - Rust · Next.js · GraphQL
+
+⚡  mindset:    >
+        Vibe-coder — AI writes it, I understand every line.
+        Ship fast. Break nothing that matters.
+        Code is not just software — it's responsibility.
 ```
 
-> *"Code is not just software — it's responsibility."*
+---
 
-</td>
+## 🛠️ Tech Stack
 
-<td width="50%" valign="top">
+<div align="center">
 
-## 🔮 Currently Deep-Diving
+**Languages**
 
-```python
-class LearningPath:
-    def __init__(self):
-        self.security = [
-            "Network Analysis",
-            "Penetration Testing",
-            "Cryptography"
-        ]
-        self.ai = [
-            "Neural Networks",
-            "NLP",
-            "Computer Vision"
-        ]
-        self.dev = [
-            "Next.js",
-            "GraphQL",
-            "Rust"
-        ]
-    
-    def goal(self):
-        return "AI + Cybersecurity fusion systems"
-```
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,java,go,cpp,cs,js,bash,latex&perline=9)](https://skillicons.dev)
 
-📚 Exploring adversarial ML, secure APIs, and system design.
+**Frontend & Backend**
 
-</td>
-</tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,fastapi,spring,nodejs,flask,html,css,webgl&perline=9)](https://skillicons.dev)
+
+**Databases & DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,sqlite,docker,githubactions,linux,git,kali,nginx&perline=9)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## ⚔️ Technical Arsenal
+## 🚀 Featured Projects
 
-### Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1B27)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1A1B27)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1A1B27)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1A1B27)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1A1B27)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1A1B27)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=1A1B27)
-![1C](https://img.shields.io/badge/1C-Enterprise-EA2129?style=for-the-badge&labelColor=1A1B27)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white&labelColor=1A1B27)
+<div align="center">
 
----
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏭 **[1C2API](https://github.com/smrbruh)** | Parses 1C ERP configs → OpenAPI 3.0 specs, Postman collections, ReDoc HTML. CI via GitHub Actions | `Python` `Typer` `PyInstaller` |
+| 🤖 **[NEXUS AI Agent](https://github.com/smrbruh)** | Telegram bot: OSINT tools + Gemini 1.5 Flash + RAG memory retrieval + Flask dashboard | `aiogram` `Gemini` `SQLite` `Flask` |
+| 🔐 **[Privacy Audit Bot](https://github.com/smrbruh)** | Personal digital footprint checker: HIBP breaches, k-anonymity passwords, rate limiting | `python-telegram-bot` `Redis` `SQLAlchemy` |
+| 🏥 **[Digital Clinic Analytics](https://github.com/smrbruh)** | Microservice for CIS private clinics: async reports, full REST API, ECharts frontend | `FastAPI` `PostgreSQL` `Celery` `Redis` |
+| 🩺 **[Doctor Appointment API](https://github.com/smrbruh)** | Multi-layer REST API with JWT, Flyway migrations, pessimistic locking vs double-booking | `Java 21` `Spring Boot 3.2` `PostgreSQL` |
+| 📡 **[Wi-Fi CSI Motion Detector](https://github.com/smrbruh)** | Real-time human motion via Channel State Information. Full DSP: Butterworth → STFT → PCA | `Python` `NumPy` `SciPy` |
+| 🎸 **[MediaPipe Chord Instrument](https://github.com/smrbruh)** | Hand gestures → real-time chord playback in browser. Zero-latency audio synthesis | `MediaPipe` `Web Audio API` `JS` |
+| 🌐 **[WebGL Path Tracer](https://github.com/smrbruh)** | Physically-based path tracer in browser. Monte Carlo sampling, custom GLSL shaders | `WebGL` `GLSL` `JavaScript` |
 
-### Frontend & Backend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1A1B27)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1A1B27)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1A1B27)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1A1B27)
-
----
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A1B27)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1A1B27)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1A1B27)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1A1B27)
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smrbruh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrbruh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smrbruh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7DCFFF&text_color=C0CAF5" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrbruh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&langs_count=8" />
+</div>
 
-<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=smrbruh&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=7AA2F7&ring=7DCFFF&fire=FF9E64&currStreakLabel=7AA2F7" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smrbruh&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/smrbruh/smrbruh/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
-## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/smrbruh/smrbruh/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=120&section=footer&reversal=false" width="100%"/>
 
 <div align="center">
   <i>"The quieter you become, the more you are able to hear."</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=smrbruh&style=for-the-badge&color=7AA2F7&label=Profile+Views">
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=smrbruh&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/smrbruh?style=for-the-badge&color=7DCFFF&labelColor=0D1117&label=FOLLOWERS" />
+  <br/><br/>
+  <sub>Open to collaboration on cybersecurity tools, AI agents, and open-source projects 🤝</sub>
 </div>
