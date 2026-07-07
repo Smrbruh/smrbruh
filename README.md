@@ -93,13 +93,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smrbruh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7DCFFF&text_color=C0CAF5" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smrbruh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7DCFFF&text_color=C0CAF5&v=2" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrbruh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrbruh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&langs_count=8&v=2" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=smrbruh&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=7AA2F7&ring=7DCFFF&fire=FF9E64&currStreakLabel=7AA2F7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smrbruh&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=7AA2F7&ring=7DCFFF&fire=FF9E64&currStreakLabel=7AA2F7&v=2" />
 </div>
 
 ---
