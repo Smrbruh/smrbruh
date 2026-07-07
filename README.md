@@ -2,14 +2,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=🔐+Cybersecurity+Student+%40+AITU+Kazakhstan;🤖+Building+AI+Agents+%26+Security+Tools;⚡+Python+%7C+Java+%7C+TypeScript+%7C+Go;🚀+From+1C+ERP+parsers+to+WebGL+renderers;🧠+Vibe-coder+who+understands+every+line" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=🔐+Cybersecurity+Student+%40+AITU+Kazakhstan;🤖+Building+AI+Agents+%26+Security+Tools;⚡+Python+%7C+Java+%7C+TypeScript+%7C+Go;🚀+From+1C+ERP+parsers+to+WebGL+renderers;🧠+Screw+you" alt="typing" />
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/smrbruh-%23181717.svg?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/smrbruh)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Bakdaulet_Sotsial-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakdaulet-sotsial-06a16b377/)&nbsp;
-[![Telegram](https://img.shields.io/badge/@smrbruh-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smrbruh)&nbsp;
-[![Instagram](https://img.shields.io/badge/@smrbruh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/smrbruh)
+[![Telegram](https://img.shields.io/badge/@stcrs-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stcrs)&nbsp;
+[![Instagram](https://img.shields.io/badge/@thstxrmxn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thstxrmxn)
 
 </div>
 
@@ -86,20 +86,6 @@
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7zkqedy6cw7fmq7ckmgh5y2ee&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=7aa2f7&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7zkqedy6cw7fmq7ckmgh5y2ee&redirect=true)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smrbruh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7DCFFF&text_color=C0CAF5&v=2" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrbruh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&langs_count=8&v=2" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smrbruh&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=7AA2F7&ring=7DCFFF&fire=FF9E64&currStreakLabel=7AA2F7&v=2" />
 </div>
 
 ---
