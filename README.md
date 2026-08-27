@@ -19,7 +19,7 @@
 
 ```yaml
 👤  name:       Bakdaulet Sotsial
-🎓  degree:     B.Sc. Cybersecurity — Astana IT University (AITU), Year 1
+🎓  degree:     B.Sc. Cybersecurity — Astana IT University (AITU), Year 2
 📍  location:   Astana, Kazakhstan 🇰🇿
 🔗  github:     github.com/smrbruh
 
