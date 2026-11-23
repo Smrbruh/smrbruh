@@ -1,112 +1,153 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=200&section=header&text=Bakdaulet%20Sotsial&fontSize=60&fontColor=7aa2f7&fontAlignY=38&desc=Cybersecurity%20%C3%97%20AI%20%C3%97%20Full-Stack&descAlignY=60&descSize=22&descColor=7dcfff&animation=fadeIn" width="100%"/>
+<!--
+  SMRBRUH // PERSONAL ENGINEERING PROFILE
+  All artwork in assets/ is bundled with this README. The launch sequence and
+  mission-status ribbon are real GIF animations, not JavaScript or CSS embeds.
+-->
 
-<div align="center">
+<p align="center">
+  <img src="assets/mission-banner.png" width="100%" alt="Bakdaulet Sotsial — cybersecurity, engineering and research, Astana IT University" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=🔐+Cybersecurity+Student+%40+AITU+Kazakhstan;🤖+Building+AI+Agents+%26+Security+Tools;⚡+Python+%7C+Java+%7C+TypeScript+%7C+Go;🚀+From+1C+ERP+parsers+to+WebGL+renderers;🧠+Screw+you" alt="typing" />
+<p align="center">
+  <a href="https://github.com/Smrbruh?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-9880FF?style=for-the-badge&labelColor=11172A&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+  <a href="https://www.linkedin.com/in/bakdaulet-sotsial-06a16b377/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-6AD7F3?style=for-the-badge&labelColor=11172A&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Smrbruh&label=PROFILE%20VIEWS&style=for-the-badge&color=7C7EF7&labelColor=11172A" alt="Profile views" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3100&pause=1100&color=9ECDF7&center=true&vCenter=true&width=950&height=47&lines=Software+Engineering+%E2%80%A2+Cybersecurity+%E2%80%A2+Applied+Research;From+working+prototypes+to+reproducible+systems;Design.+Implement.+Test.+Document.+Repeat." alt="Software engineering, cybersecurity and applied research" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/smrbruh-%23181717.svg?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/smrbruh)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Bakdaulet_Sotsial-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakdaulet-sotsial-06a16b377/)&nbsp;
-[![Telegram](https://img.shields.io/badge/@stcrs-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stcrs)&nbsp;
-[![Instagram](https://img.shields.io/badge/@thstxrmxn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thstxrmxn)
+<p align="center">
+  <img src="assets/mission-status.gif" width="100%" alt="Animated engineering mission status display" />
+</p>
 
-</div>
+<table>
+  <tr>
+    <td width="59%" valign="middle">
+      <h2>Engineering, with curiosity as the starting point.</h2>
+      <p>I'm <b>Bakdaulet Sotsial</b>, a second-year <b>B.Sc. Cybersecurity</b> student at <b>Astana IT University</b> in Kazakhstan.</p>
+      <p>I build desktop applications, developer tools and experimental systems. My work spans software security, reinforcement learning, numerical computing and full-stack development.</p>
+      <p>I care about what happens after a prototype works: reproducible builds, meaningful tests, transparent limitations and software that someone else can actually run.</p>
+      <p><code>Python</code> · <code>TypeScript</code> · <code>C++</code> · <code>Rust</code> · <code>Linux</code></p>
+      <sub>ASTANA, KAZAKHSTAN &nbsp; / &nbsp; AITU • YEAR 02 &nbsp; / &nbsp; OPEN SOURCE</sub>
+    </td>
+    <td width="41%" align="center" valign="middle">
+      <a href="https://github.com/Smrbruh?tab=repositories">
+        <img src="assets/rocket-launch.gif" width="335" alt="Animated SMRBRUH rocket launch: ignition, ascent and orbit above Astana" />
+      </a>
+      <br />
+      <sub>MISSION CONTROL &nbsp; // &nbsp; IGNITION → ORBIT</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h2 align="center">01 / SELECTED ENGINEERING WORK</h2>
+<p align="center"><sub>Real repositories, actual scopes, direct links. Click any cover to inspect the source.</sub></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Smrbruh/InkMath"><img src="assets/cover-inkmath.png" width="100%" alt="InkMath project cover" /></a>
+      <h3><a href="https://github.com/Smrbruh/InkMath">InkMath</a></h3>
+      <p>A local-first Windows mathematics notebook combining LaTeX compilation, PDF output and page annotation. Includes an Electron desktop shell, tests, Windows CI and release packaging.</p>
+      <a href="https://github.com/Smrbruh/InkMath/blob/main/docs/ARCHITECTURE.md">Architecture</a> · <a href="https://github.com/Smrbruh/InkMath/releases">Releases</a> · <a href="https://github.com/Smrbruh/InkMath/blob/main/README.md">Documentation</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Smrbruh/ORBIT"><img src="assets/cover-orbit.png" width="100%" alt="ORBIT project cover" /></a>
+      <h3><a href="https://github.com/Smrbruh/ORBIT">ORBIT</a></h3>
+      <p>A local reinforcement-learning workstation with Stable-Baselines3 PPO, a grid navigation environment, an A* baseline, saved experiment evidence and a React/Tauri interface.</p>
+      <a href="https://github.com/Smrbruh/ORBIT/blob/main/docs/architecture.md">Architecture</a> · <a href="https://github.com/Smrbruh/ORBIT/blob/main/docs/experiments.md">Experiments</a> · <a href="https://github.com/Smrbruh/ORBIT/blob/main/docs/limitations.md">Limitations</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Smrbruh/1c2api"><img src="assets/cover-1c2api.png" width="100%" alt="1C2API project cover" /></a>
+      <h3><a href="https://github.com/Smrbruh/1c2api">1C2API</a></h3>
+      <p>A Python CLI that converts 1C EDT configuration metadata into JSON Schema, OpenAPI 3.0, Postman collections and reference documentation. Built around a shared schema model and end-to-end fixtures.</p>
+      <a href="https://github.com/Smrbruh/1c2api">Source &amp; CLI</a> · <a href="https://github.com/Smrbruh/1c2api/tree/main/tests">Tests</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Smrbruh/PROMETHEUS"><img src="assets/cover-prometheus.png" width="100%" alt="PROMETHEUS project cover" /></a>
+      <h3><a href="https://github.com/Smrbruh/PROMETHEUS">PROMETHEUS</a></h3>
+      <p>A numerical research baseline for plane-stress elasticity and SIMP/OC topology optimization, with validation tests, repeatable experiment commands and documented model limitations.</p>
+      <a href="https://github.com/Smrbruh/PROMETHEUS/tree/main/research">Research</a> · <a href="https://github.com/Smrbruh/PROMETHEUS/tree/main/tests">Verification</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Smrbruh/wafam"><img src="assets/cover-qadam.png" width="100%" alt="Qadam project cover" /></a>
+      <h3><a href="https://github.com/Smrbruh/wafam">Qadam</a></h3>
+      <p>A location-aware walking assistant for Astana, developed for Build with AI. It uses a sourced OpenStreetMap place dataset, geospatial filters and retrieval-based recommendations, with optional server-side Gemini generation.</p>
+      <a href="https://github.com/Smrbruh/wafam/tree/main/demo">Demo materials</a> · <a href="https://github.com/Smrbruh/wafam/blob/main/README.md">Technical notes</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Smrbruh/komek-kids"><img src="assets/cover-komek.png" width="100%" alt="Komek Kids project cover" /></a>
+      <h3><a href="https://github.com/Smrbruh/komek-kids">Komek Kids</a></h3>
+      <p>A video-first learning platform prototype with Kazakh/Russian localization, accessibility-oriented comfort settings and parent progress reporting. Built with Next.js, TypeScript and optional Supabase integration.</p>
+      <a href="https://github.com/Smrbruh/komek-kids">Source</a> · <a href="https://komek-kids.vercel.app">Web preview</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>View real product screenshots</b> — InkMath desktop and Qadam map interface</summary>
+  <br />
+  <p align="center">
+    <a href="https://github.com/Smrbruh/InkMath"><img src="https://raw.githubusercontent.com/Smrbruh/InkMath/main/docs/media/workspace.png" width="90%" alt="InkMath actual desktop screenshot" /></a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Smrbruh/wafam"><img src="https://raw.githubusercontent.com/Smrbruh/wafam/main/demo/01-overview.png" width="90%" alt="Qadam actual interface screenshot" /></a>
+  </p>
+</details>
+
+<br />
+
+<h2 align="center">02 / COMMUNITY &amp; OPEN KNOWLEDGE</h2>
+<p align="center"><sub>Two of my most-starred public repositories are freely accessible university study resources.</sub></p>
+
+<table>
+  <tr>
+    <th align="left">Repository</th>
+    <th align="left">Contents</th>
+    <th align="center">GitHub stars</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Smrbruh/Discrete-Mathematics-Lecture-Notes-and-Problem-Solving-Weeks-1-10-"><b>Discrete Mathematics Notes</b></a></td>
+    <td>10 weeks of LaTeX/PDF notes: logic, combinatorics, number theory and graph theory.</td>
+    <td align="center"><a href="https://github.com/Smrbruh/Discrete-Mathematics-Lecture-Notes-and-Problem-Solving-Weeks-1-10-/stargazers"><img src="https://img.shields.io/github/stars/Smrbruh/Discrete-Mathematics-Lecture-Notes-and-Problem-Solving-Weeks-1-10-?style=flat-square&color=F2C77D&label=stars" alt="Stars for Discrete Mathematics Notes" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Smrbruh/Calculus-1-Lecture-Notes"><b>Calculus I Lecture Notes</b></a></td>
+    <td>10 weeks of LaTeX/PDF notes: limits, differentiation, integration and applications.</td>
+    <td align="center"><a href="https://github.com/Smrbruh/Calculus-1-Lecture-Notes/stargazers"><img src="https://img.shields.io/github/stars/Smrbruh/Calculus-1-Lecture-Notes?style=flat-square&color=F2C77D&label=stars" alt="Stars for Calculus I Lecture Notes" /></a></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Star counts update automatically. Also exploring defensive network tooling in <a href="https://github.com/Smrbruh/wifi_deauth_detector">Wi-Fi Deauth Detector</a>.</sub></p>
+
+<br />
+
+<h2 align="center">03 / TOOLCHAIN</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,cpp,rust,react,nextjs,nodejs,postgres,docker,git,linux,github&theme=dark&perline=12" alt="Python, TypeScript, C++, Rust, React, Next.js, Node.js, PostgreSQL, Docker, Git, Linux and GitHub" />
+</p>
+<p align="center"><sub>Primarily working with Python and TypeScript; using other languages and tools where the project calls for them.</sub></p>
+
+<br />
+
+<h2 align="center">04 / ACTIVITY TELEMETRY</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smrbruh&bg_color=0B1024&color=B8C4E9&line=9B84FF&point=6CE2F5&area=true&area_color=5959A9&hide_border=true&custom_title=GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
+</p>
+<p align="center">
+  <a href="https://github.com/Smrbruh?tab=repositories"><img src="https://img.shields.io/badge/READ_THE_CODE-1A2342?style=for-the-badge&labelColor=11172A&logo=github&logoColor=FFFFFF" alt="Read my code on GitHub" /></a>
+  <a href="https://github.com/Smrbruh?tab=stars"><img src="https://img.shields.io/badge/EXPLORE_MY_STARS-1A2342?style=for-the-badge&labelColor=11172A&logo=githubsponsors&logoColor=FFFFFF" alt="Explore my starred repositories" /></a>
+</p>
 
 ---
 
-## 🧬 About Me
-
-```yaml
-👤  name:       Bakdaulet Sotsial
-🎓  degree:     B.Sc. Cybersecurity — Astana IT University (AITU), Year 2
-📍  location:   Astana, Kazakhstan 🇰🇿
-🔗  github:     github.com/smrbruh
-
-🔭  building:
-      - AI-powered OSINT & security tools
-      - Secure full-stack platforms for CIS market
-      - Open-source dev tooling for 1C/ERP ecosystem
-
-🌱  learning:
-      - Adversarial Machine Learning
-      - RF & Signal Processing (CSI, RTI)
-      - Rust · Next.js · GraphQL
-
-⚡  mindset:    >
-        Vibe-coder — AI writes it, I understand every line.
-        Ship fast. Break nothing that matters.
-        Code is not just software — it's responsibility.
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,java,go,cpp,cs,js,bash,latex&perline=9)](https://skillicons.dev)
-
-**Frontend & Backend**
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,fastapi,spring,nodejs,flask,html,css,webgl&perline=9)](https://skillicons.dev)
-
-**Databases & DevOps**
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,sqlite,docker,githubactions,linux,git,kali,nginx&perline=9)](https://skillicons.dev)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏭 **[1C2API](https://github.com/smrbruh)** | Parses 1C ERP configs → OpenAPI 3.0 specs, Postman collections, ReDoc HTML. CI via GitHub Actions | `Python` `Typer` `PyInstaller` |
-| 🤖 **[NEXUS AI Agent](https://github.com/smrbruh)** | Telegram bot: OSINT tools + Gemini 1.5 Flash + RAG memory retrieval + Flask dashboard | `aiogram` `Gemini` `SQLite` `Flask` |
-| 🔐 **[Privacy Audit Bot](https://github.com/smrbruh)** | Personal digital footprint checker: HIBP breaches, k-anonymity passwords, rate limiting | `python-telegram-bot` `Redis` `SQLAlchemy` |
-| 🏥 **[Digital Clinic Analytics](https://github.com/smrbruh)** | Microservice for CIS private clinics: async reports, full REST API, ECharts frontend | `FastAPI` `PostgreSQL` `Celery` `Redis` |
-| 🩺 **[Doctor Appointment API](https://github.com/smrbruh)** | Multi-layer REST API with JWT, Flyway migrations, pessimistic locking vs double-booking | `Java 21` `Spring Boot 3.2` `PostgreSQL` |
-| 📡 **[Wi-Fi CSI Motion Detector](https://github.com/smrbruh)** | Real-time human motion via Channel State Information. Full DSP: Butterworth → STFT → PCA | `Python` `NumPy` `SciPy` |
-| 🎸 **[MediaPipe Chord Instrument](https://github.com/smrbruh)** | Hand gestures → real-time chord playback in browser. Zero-latency audio synthesis | `MediaPipe` `Web Audio API` `JS` |
-| 🌐 **[WebGL Path Tracer](https://github.com/smrbruh)** | Physically-based path tracer in browser. Monte Carlo sampling, custom GLSL shaders | `WebGL` `GLSL` `JavaScript` |
-
-</div>
-
----
-
-## 🎵 Now Playing on Spotify
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7zkqedy6cw7fmq7ckmgh5y2ee&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=7aa2f7&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31z7zkqedy6cw7fmq7ckmgh5y2ee&redirect=true)
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/smrbruh/smrbruh/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:1a1b27,100:0d1117&height=120&section=footer&reversal=false" width="100%"/>
-
-<div align="center">
-  <i>"The quieter you become, the more you are able to hear."</i>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=smrbruh&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS&labelColor=0D1117" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/smrbruh?style=for-the-badge&color=7DCFFF&labelColor=0D1117&label=FOLLOWERS" />
-  <br/><br/>
-  <sub>Open to collaboration on cybersecurity tools, AI agents, and open-source projects 🤝</sub>
-</div>
+<p align="center"><b>Build with intention. Measure the result. Leave the evidence.</b></p>
+<p align="center"><sub>© Bakdaulet Sotsial · Kazakhstan · <a href="https://github.com/Smrbruh">github.com/Smrbruh</a></sub></p>
